@@ -1,0 +1,59 @@
+.{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    outline: none;
+}
+h1{
+    border: 0px;
+    background-color: blanchedalmond;
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+   background-attachment: fixed;
+   margin: 0%;
+
+
+}
+div{
+    background-color: rgb(25, 78, 116);
+    text-align: center;
+    color: 0;
+    padding: 2%;
+    
+    
+
+}
+.divcaja1
+
+image{
+    border: 0px;
+    background-position: 0px;
+    background-image: none;
+   
+}
+
+body{
+    border: 0px;
+    background-position: 0%;
+  text-align: start;
+}
+header{
+    background-color: antiquewhite;
+    display: flex;
+}
+
+   .caja2{
+    background-color: rgb(25, 78, 116);
+    }
+    .caja1 img{
+        width: 10%;
+        margin-right: 60%;
+       
+        
+
+    
+    }
+    .p{
+        margin-left: 0pt;
+    }

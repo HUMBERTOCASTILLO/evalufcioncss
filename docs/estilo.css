@@ -1,0 +1,55 @@
+.{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    outline: none;
+}
+h1{
+    border: 0px;
+    background-color: blanchedalmond;
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+   background-attachment: fixed;
+   margin: 0%;
+
+
+}
+.caja1{
+    background-color: rgb(222, 111, 14);
+    text-align: center;
+    color: 0;
+    
+
+}
+
+image{
+    border: 0px;
+    background-position: 0px;
+    background-image: none;
+   
+}
+
+body{
+    border: 0px;
+    background-position: 0%;
+  text-align: start;
+}
+header{
+    background-color: antiquewhite;
+    display: flex;
+}
+
+   .caja1{
+        background-color: rgb(22, 48, 30);
+
+       
+    }
+
+
+
+
+.caja2{
+    background-color: aquamarine;
+
+}
